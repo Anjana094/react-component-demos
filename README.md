@@ -1,4 +1,4 @@
-<img width="1320" alt="Screenshot 2025-01-24 at 10 54 35 PM" src="https://github.com/user-attachments/assets/a3b927ab-c9fb-45a2-8e8e-8129f39f874f" /># React Component Demos
+# React Component Demos
 
 This project is a collection of reusable React components designed to demonstrate different concepts and functionalities in React, such as state management, props, events, effects, and more. It is an interactive application where you can view live demos of the components and their code.
 
@@ -37,6 +37,8 @@ This project is a collection of reusable React components designed to demonstrat
 2. Installation : npm install
 3. Run the Application : npm start
 4. Access the Application : http://localhost:3000
+
+<img width="1320" alt="Screenshot 2025-01-24 at 10 54 35 PM" src="https://github.com/user-attachments/assets/a3b927ab-c9fb-45a2-8e8e-8129f39f874f" />
 
 ## **Components Included
 Below is the list of components demonstrated in the project:
